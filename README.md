@@ -25,12 +25,23 @@ cybersecurity, and data & AI**.
 
 ### 🔹 Beginner C Programs
 
-A growing collection of small C programs created while learning
-programming fundamentals and experimenting with C.
+A growing collection of small C programs created while learning programming fundamentals and experimenting with C.
 
-➡️ [View the repository](https://github.com/godlyy06/beginner-c-programs)
+➡️ [View repository](https://github.com/godlyy06/beginner-c-programs)
 
-> More projects are coming as I progress through my studies.
+### 🌐 Web Development Projects
+
+A collection of web development projects documenting my progress with HTML, CSS, responsive design, and other web technologies.
+
+➡️ [View repository](https://github.com/godlyy06/web-development-projects)
+
+### 🐍 Python Projects
+
+A collection of small Python programs and projects I'm building while learning Python and exploring its applications.
+
+**Comming Soon**
+
+> More projects are coming as I progress through my studies and continue learning.
 
 ---
 
