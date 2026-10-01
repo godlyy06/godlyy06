@@ -1,36 +1,56 @@
-# Hi, my name is Alen 👋
+# Hey, my name is Alen 👋
 
-I'm a Computer Science student at FH Wiener Neustadt in Austria.
+### Computer Science Student @ FH Wiener Neustadt
 
-I'm currently building a strong foundation in computer science and exploring different areas of IT. I'm particularly interested in software development, systems, networking, cybersecurity, and data & AI.
+I'm currently building a strong foundation in computer science while exploring
+different areas of IT through my studies and personal projects.
 
-## Currently Learning
+I'm especially interested in **software development, systems & networking,
+cybersecurity, and data & AI**.
 
-- C programming
-- Python
-- Responsive Web Design (FreeCodeCamp)
-- Git & GitHub
-- Computer systems and networking
-- Databases and SQL
+---
 
-## Projects
+## 🧑‍💻 Currently Learning
 
-### Beginner C Programs
+- 💻 **C** — programming fundamentals
+- 🐍 **Python** — currently learning
+- 🌐 **Responsive Web Design** — freeCodeCamp
+- 🔧 **Git & GitHub** — version control and project workflows
+- 🖥️ **Computer Systems & Networking**
+- 🗄️ **Databases & SQL**
 
-A collection of small C programs I'm building while learning the fundamentals of programming and C.
+---
 
-[View repository](https://github.com/godlyy06/beginner-c-programs)
+## 🚀 Projects
 
-## Areas of Interest
+### 🔹 Beginner C Programs
 
-- Software Development
-- Systems & Networking
-- Cybersecurity
-- Data & AI
+A growing collection of small C programs created while learning
+programming fundamentals and experimenting with C.
 
-## Current Goals
+➡️ [View the repository](https://github.com/godlyy06/beginner-c-programs)
 
-- Strengthen my programming fundamentals
-- Build practical projects alongside my studies
-- Explore different areas of computer science
-- Gain my first practical experience in IT
+> More projects are coming as I progress through my studies.
+
+---
+
+## 🔎 Areas of Interest
+
+`Software Development` · `Systems & Networking` · `Cybersecurity` · `Data & AI`
+
+---
+
+## 🎯 Current Goals
+
+- Build a strong foundation in computer science
+- Develop practical projects alongside my studies
+- Explore different areas of IT
+- Expand my knowledge beyond university coursework
+- Gain my first professional experience in IT
+
+---
+
+### 📫 Let's connect
+
+I'm always interested in learning, building new things, and connecting with
+others in tech.
