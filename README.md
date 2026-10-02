@@ -39,7 +39,7 @@ A collection of web development projects documenting my progress with HTML, CSS,
 
 A collection of small Python programs and projects I'm building while learning Python and exploring its applications.
 
-**Coming Soon**
+➡️ [View repository](https://github.com/godlyy06/python-projects)
 
 > More projects are coming as I progress through my studies and continue learning.
 
